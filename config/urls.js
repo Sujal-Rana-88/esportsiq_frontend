@@ -8,6 +8,7 @@ const API_URLS = {
   REGISTER: `${BASE_URL}/auth/register`,
   FORGOT_PASSWORD: `${BASE_URL}/auth/forgot-password`,
   RESET_PASSWORD: `${BASE_URL}/auth/reset-password`,
+  VERIFY_EMAIL: `${BASE_URL}/auth/verify-email`,
 
 };
 
